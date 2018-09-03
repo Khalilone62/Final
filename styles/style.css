@@ -1,7 +1,7 @@
 body { 
   margin: 0;
   font-family: 'Josefin Sans', sans-serif;
-  background-image: url("file:///C:/Users/IBRAHIM-PC/Final/images/mest.jpg");
+  background-image: url("../images/mest.jpg");
   background-size: 100%;
   background-repeat: no-repeat;
 }
